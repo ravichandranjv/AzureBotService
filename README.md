@@ -1,2 +1,2 @@
 # AzureBotService
-A simple bot on Azure
+A simple Node.js bot on Azure
