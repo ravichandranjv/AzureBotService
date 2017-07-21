@@ -1,0 +1,22 @@
+{
+  "name": "skypebot",
+  "version": "1.0.0",
+  "description": "A simple Skype Bot Service",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "ngrok": "^2.2.15",
+    "restify": "^5.0.1",
+    "skype-sdk": "0.0.0"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "url": "^0.11.0",
+    "util": "^0.10.3"
+  }
+}
